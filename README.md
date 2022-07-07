@@ -1,1 +1,1 @@
-# SQLITE-in-C-C-with-user-input
+# Simple SQL crud operations written in C with SQLite implementations
